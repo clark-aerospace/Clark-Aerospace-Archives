@@ -1,0 +1,3 @@
+Inside the template folder There are some files that you may copy and modify to fit into the format you like
+
+When updating information, please update the endcard to reflect this. This makes it easier to find up-to-date information.
